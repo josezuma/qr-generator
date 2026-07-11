@@ -1,7 +1,10 @@
 # FAQ
 
 ## What is qr-generator?
-QR code generator CLI
+Qr Generator
 
 ## Dependencies?
 Python stdlib only.
+
+## Author
+Jose Zuma
